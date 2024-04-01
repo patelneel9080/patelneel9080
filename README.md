@@ -43,16 +43,6 @@
   
 </div>
 
-<h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
-
-<div align="left">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=amirbayat0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
- 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbayat0&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
- 
- 
-</div>
 
 ###
 
