@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left" style="color:white;" >💻 Tech Stack</h2>
+<h2 align="left" style="color:white;" >💻 Neel Patel </h2>
 
 ###
 
