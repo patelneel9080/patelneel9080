@@ -17,34 +17,9 @@
  
 </div>
 
-###
-
-<h2 align="left" style="color:white;" >🌐 My socials</h2>
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/not_urs_neel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://tlgrm.in/Codewithflexz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://amirbayat.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="35" alt="gmail logo"  />
-  </a>
-
-  <a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="noreferrer">
-  <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="50" />
-  </a>
-  
-</div>
-
-
-###
 
 <h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
 <a href="https://www.buymeacoffee.com/patelneel9x?new=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
