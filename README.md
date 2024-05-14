@@ -22,7 +22,7 @@
 
 
 <h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
-<a href="https://www.buymeacoffee.com/patelneel9x?new=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<a href="https://www.buymeacoffee.com/patelneel9x"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
 
 
