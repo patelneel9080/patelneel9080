@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="200" height="200" src="https://github.com/user-attachments/assets/f99ebd44-1662-4f3a-9439-26b456e69822"/>
+<img align="right" alt="Coding" width="160" height="160" src="https://github.com/user-attachments/assets/f99ebd44-1662-4f3a-9439-26b456e69822"/>
 
 Hi there! I'm **Neel Patel**, a passionate Flutter developer currently pursuing my BSc.IT degree. 🎓
 
